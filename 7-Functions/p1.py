@@ -1,4 +1,4 @@
-# Function with our arguments
+# Function with out arguments
 def d1():
     
     print("d1 function")
